@@ -11,6 +11,7 @@ My research interests focus on economic inclusion through digital equity and lit
 * number of individuals in residence
     * average age of household
     * number of children in school 
-* additional points of access
+* additional points of internet access
+* SNAP/free or reduced lunch rates
 ## Class objectives
 Working as a designer I have always leveraged proprietary software to create graphics, webistes, and videos; I would like to add open-source and coding skills to my  toolkit to push my visual communication skills further. At a more conceptual level, I would like to become a more proficient storyteller who uses data to as an asset to build better cases to enact change. 
