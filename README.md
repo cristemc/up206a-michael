@@ -1,6 +1,6 @@
 # up206a-michael
 ## Profile
-My name is Michael and I am a second year MURP student. Before entering Luskin, I worked as a graphic designer for 8 years for education, finance, and technology companies. Additionally, I am an aspiring birder – I'm always open to tips or suggestions!
+My name is Michael and I am a second year MURP student. Before entering Luskin, I worked as a graphic designer for 8 years for an assortment of industries. In my spare time, I am an aspiring birder – I'm always open to tips or suggestions!
 ## Course description
 The objective of the course is to become familar with open-source data science tools to create compelling maps to inform planning practice, advocacy and policy work. 
 ## Project ideas
