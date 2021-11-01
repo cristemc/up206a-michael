@@ -1,0 +1,21 @@
+race,status,count
+White (not Latinx),Computer with dial-up,1617
+White (not Latinx),Computer with Broadband,1042739
+White (not Latinx),Computer with no internet,36275
+White (not Latinx),No computer,29771
+Black,Computer with dial-up,0
+Black,Computer with Broadband,279056
+Black,Computer with no internet,28109
+Black,No computer,21541
+Asian,Computer with dial-up,299
+Asian,Computer with Broadband,410428
+Asian,Computer with no internet,21273
+Asian,No computer,15923
+Latinx,Computer with dial-up,1441
+Latinx,Computer with Broadband,1680955
+Latinx,Computer with no internet,143396
+Latinx,No computer,68772
+Two or more races,Computer with dial-up,141
+Two or more races,Computer with Broadband,146968
+Two or more races,Computer with no internet,5295
+Two or more races,No computer,1815
